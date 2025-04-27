@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/majdn.althalathini/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/majdn.althalathini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/majdn.althalathini/AndroidStudioProjects/voice_chat/android/app/.cxx/RelWithDebInfo/6ph2h2zd/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/majdn.althalathini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/majdn.althalathini/AndroidStudioProjects/voice_chat/android/app/.cxx/RelWithDebInfo/6ph2h2zd/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/majdn.althalathini/AndroidStudioProjects/voice_chat/android/app/.cxx/RelWithDebInfo/6ph2h2zd/x86_64/CMakeFiles/edit_cache.dir
+/Users/majdn.althalathini/AndroidStudioProjects/voice_chat/android/app/.cxx/RelWithDebInfo/6ph2h2zd/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "789671280447",
+    "project_id": "roya-77357",
+    "storage_bucket": "roya-77357.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789671280447:android:a30eb3f4af7d787257dd8a",
+        "android_client_info": {
+          "package_name": "com.ucst.voice.voice_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789671280447-5mpn36f3sneituts38eodvh3j8k6jkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvnZpyJTrzuKHTyuThkHRCSxN8ZMZI940"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789671280447-5mpn36f3sneituts38eodvh3j8k6jkr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789671280447-81n7u82504t1f49kkpf9bbi2nb49p08n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
